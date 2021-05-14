@@ -1,5 +1,5 @@
 import Game from "./Game.js";
-import GameView from "./gameView";
+import GameView from "./gameView.js";
 
 let game = new Game();
 
