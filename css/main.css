@@ -2,6 +2,25 @@
   box-sizing: border-box;
 }
 
+body {
+  background: #f0cea0;
+}
+
+.header__container {
+  background: #db2b39;
+  font-family: "Goblin One";
+  color: #29335c;
+  text-align: center;
+  padding: 1rem;
+  border: 5px solid #222222;
+  border-radius: 10px;
+}
+
+.app__container {
+  margin: auto;
+  margin-top: 5rem;
+}
+
 #app {
   border: 1px solid #f3a712;
   width: 500px;
