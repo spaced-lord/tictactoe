@@ -22,7 +22,6 @@ export default class Game {
         if (!this.findWinningCombination()) {
             this.nextTurn();
         }
-        this.nextTurn();
     }
 
     findWinningCombination() {
